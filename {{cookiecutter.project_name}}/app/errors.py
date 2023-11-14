@@ -1,0 +1,4 @@
+# Definbe error code constants
+CONFIG_FILE_NOT_FOUND = 1001
+INVALID_API_KEY = 1002
+SCRIPT_ERROR = 1003
