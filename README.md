@@ -10,7 +10,7 @@ pip install -U cookiecutter
 Generate a Python package project:
 
 ```bash
-cookiecutter https://github.com/zer0ttl/cookiecutter-cli-app.git
+cookiecutter https://github.com/zer0ttl/cookiecutter-cli-app-with-commands.git 
 ```
 
 Then:
